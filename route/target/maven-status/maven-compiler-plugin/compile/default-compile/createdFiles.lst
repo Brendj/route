@@ -1,0 +1,13 @@
+com\prog\route\repo\FraudHistRepo.class
+com\prog\route\controller\FraudController.class
+com\prog\route\controller\FraudBaseReq.class
+com\prog\route\model\FraudHist.class
+com\prog\route\RouteApplication.class
+com\prog\route\controller\FraudSwaggerController.class
+com\prog\route\service\FraudService.class
+com\prog\route\dto\FraudDto.class
+com\prog\route\service\impl\FraudServiceImpl.class
+com\prog\route\config\SwaggerConfig.class
+com\prog\route\repo\FraudRepo.class
+com\prog\route\model\Fraud.class
+com\prog\route\converter\FraudConverter.class
